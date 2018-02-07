@@ -7,11 +7,11 @@ The game is based on the events in the alternate reality of some junta country i
 
 In Kala War, the player will be take control of the 2 following teams and 4 characters.
 
-1. The Junta
+#### 1. The Junta
   * BigTwo, the always furious dumb general who never do as he promise.
   * BigPong, the vice general who lost many friends due to some luxury-watch related situations.
 
-2. The Outlaw
+#### 2. The Outlaw
   * Taki Shinawada, the rich japanese businessman. the most dangerous criminal in Kala Land.
   * Dummy, the shaolin gay monk. Which actually an alien general leader of the Damakaya Galactic Empire.
 
