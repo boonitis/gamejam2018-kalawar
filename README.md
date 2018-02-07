@@ -1,6 +1,6 @@
 # Kala War
 
-Unity powered local multiplayer game where 4 players divided into 2 teams competing with each other.
+The Unity powered local multiplayer game where 4 players divided into 2 teams competing with each other.
 The game is based on the events in the alternate reality of some junta country in South-East Asia.
 
 ## Getting Started
